@@ -1,2 +1,1 @@
-# idle-dice
-Idle Dice
+dice
